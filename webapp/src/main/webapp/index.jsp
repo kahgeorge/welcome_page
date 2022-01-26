@@ -1,6 +1,6 @@
 U<form action="action_page.php">
   <div class="container">
-    <h1>New User Register new Form for DevOps Learning</h1>
+    <h1>New User Register Form for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,11 @@ U<form action="action_page.php">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+<<<<<<< HEAD
    <h1> Thank you, Happy Learning Class </h1>
+=======
+   <h1> Thank you, Happy Learning </h1>
+>>>>>>> afd4f993a62d24c3fee5948c1d7c57745d0fb6e8
 
   
 </form>
